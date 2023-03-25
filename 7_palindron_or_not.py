@@ -12,6 +12,6 @@ s = "madam"
 ans = isPalindrome(s)
  
 if (ans):
-    print("Yes")
+    print("Yes the given sting is palindron")
 else:
     print("given string is not a palindron")
